@@ -14,7 +14,7 @@ CLSync is a Windows application that synchronizes a local directory with a remot
 
 ## Configuration
 
-The application saves its configuration and log files in the `c:\\CLSync\\` directory. 
+The application saves its configuration and log files in the `c:\CLSync\` directory. 
 
 ### Configuration Settings
 
@@ -49,7 +49,7 @@ The application saves its configuration and log files in the `c:\\CLSync\\` dire
 
 ## Logging
 
-The application logs its operations to `c:\\CLSync\\sync.log`.
+The application logs its operations to `c:\CLSync\sync.log`.
 
 ## Contributing
 
