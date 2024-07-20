@@ -30,7 +30,7 @@ The application saves its configuration and log files in the `c:\\CLSync\\` dire
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CLSync.git
+    git clone https://github.com/ChristopherStrom/CLSync.git
     ```
 
 2. Open the solution in Visual Studio.
