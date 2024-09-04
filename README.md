@@ -26,7 +26,7 @@ The application saves its configuration and log files in the `c:\CLSync\` direct
 - **Remote Directory**: The remote directory to sync
 - **Sync Duration**: The duration between syncs in seconds
 
-## Installation  (Prepackage available under [release page]([https://github.com/ChristopherStrom/CLSync/releases/download/2.0/](https://github.com/ChristopherStrom/CLSync/releases/tag/2.0)) )
+## Installation  (Prepackage available under [release page](https://github.com/ChristopherStrom/CLSync/releases/tag/2.0) )
 
 1. Clone the repository:
     ```sh
